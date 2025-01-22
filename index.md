@@ -48,6 +48,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jan 2025: Two paper are accepted to ICLR2025.</li>
 <li> Dec 2024: One paper is accepted to ICASSP2025.</li>
 <li> Dec 2024: I will serve as an area chair of ICML2025.</li>
 <li> Dec 2024: One paper is accepted to TIP2024.</li>
@@ -98,7 +99,7 @@ Yuxiang Bao\#, Guoliang Kang\#, **Linlin Yang**, Xiaoyue Duan, Bo Zhao, Baochang
 
 
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
-Tiancheng Wang\#, Yuguang Yang\#, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
+Tiancheng Wang, Yuguang Yang, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
 [[openreview]](https://openreview.net/forum?id=FYm8coxdiR) 
 
