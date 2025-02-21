@@ -48,7 +48,8 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
-<li> Jan 2025: Two paper are accepted to ICLR2025.</li>
+<li> Feb 2025: I will serve as an area chair of NeurIPS2025.</li>
+<li> Jan 2025: Two papers are accepted to ICLR2025.</li>
 <li> Dec 2024: One paper is accepted to ICASSP2025.</li>
 <li> Dec 2024: I will serve as an area chair of ICML2025.</li>
 <li> Dec 2024: One paper is accepted to TIP2024.</li>
@@ -85,6 +86,16 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 
 
 <h3 id="pub2025">2025</h3>
+
+- Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training<br>
+Boyu Liu\#, Haoyu Huang\#, **Linlin Yang**\*, Yanjing Li\*, Guodong Guo, Xianbin Cao, Baochang Zhang<br>
+*International Conference on Learning Representations (ICLR)*, 2025.<br>
+[[openreview]](https://openreview.net/forum?id=wA2RMD2AFq) 
+
+- Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for zero-shot medical detection<br>
+Yuguang Yang\#, Tongfei Chen\#, Haoyu Huang,  **Linlin Yang**\*, Chunyu Xie\*, Dawei Leng, Xianbin Cao, Baochang Zhang<br>
+*International Conference on Learning Representations (ICLR)*, 2025.<br>
+[[openreview]](https://openreview.net/forum?id=l0t2rumAvR) 
 
 - DTR: Dynamic Tree-Ring Watermarking Framework for Diffusion-Based Video Generation<br>
 Shunyang Zeng\#, **Linlin Yang**\#, Jin Yang, Yezhen Wang, Tianyu Gao<br>
