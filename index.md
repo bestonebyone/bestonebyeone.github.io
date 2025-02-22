@@ -107,6 +107,7 @@ Shunyang Zeng\#, **Linlin Yang**\#, Jin Yang, Yezhen Wang, Tianyu Gao<br>
 - Normalizing Batch Normalization for Long-Tailed Recognition<br>
 Yuxiang Bao\#, Guoliang Kang\#, **Linlin Yang**, Xiaoyue Duan, Bo Zhao, Baochang Zhang<br>
 *IEEE Transactions on Image Processing  (TIP)*, 2024.<br>
+[[arXiv]](https://arxiv.org/abs/2501.03122) 
 
 
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
