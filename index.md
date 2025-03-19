@@ -84,9 +84,20 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 *arXiv*, 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2404.04037) 
 
+- Language-guided Open-world Video Anomaly Detection<br>
+Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/abs/2503.13160) 
 
 
 <h3 id="pub2025">2025</h3>
+- Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation<br>
+Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
+
+- SET: Spectral Enhancement for Tiny Object Detection<br>
+Huixin Sun, Runqi Wang, Yanjing Li, **Linlin Yang**, Shaohui Lin, Xianbin Cao, Baochang Zhang<br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
 
 - Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training<br>
 Boyu Liu\#, Haoyu Huang\#, **Linlin Yang**\*, Yanjing Li\*, Guodong Guo, Xianbin Cao, Baochang Zhang<br>
