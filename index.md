@@ -94,6 +94,7 @@ Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
 - Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation<br>
 Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
+[[arXiv]](https://arxiv.org/abs/2503.19307) 
 
 - SET: Spectral Enhancement for Tiny Object Detection<br>
 Huixin Sun, Runqi Wang, Yanjing Li, **Linlin Yang**, Shaohui Lin, Xianbin Cao, Baochang Zhang<br>
