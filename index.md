@@ -113,6 +113,7 @@ Yuguang Yang\#, Tongfei Chen\#, Haoyu Huang,  **Linlin Yang**\*, Chunyu Xie\*, D
 - DTR: Dynamic Tree-Ring Watermarking Framework for Diffusion-Based Video Generation<br>
 Shunyang Zeng\#, **Linlin Yang**\#, Jin Yang, Yezhen Wang, Tianyu Gao<br>
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.<br>
+[[pdf]](https://ieeexplore.ieee.org/document/10888152)
 
 
 <h3 id="pub2024">2024</h3>
