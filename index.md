@@ -48,6 +48,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> May 2025: One paper is accepted to ICML2025.</li>
 <li> Apr 2025: We will host 9th HANDS workshop in conjunction with ICCV25! See you in Honolulu.</li>
 <li> Feb 2025: Two papers are accepted to CVPR2025.</li>
 <li> Feb 2025: I will serve as an area chair of NeurIPS2025.</li>
