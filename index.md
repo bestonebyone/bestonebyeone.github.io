@@ -38,7 +38,7 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 ## Professional Services 
 
 <div style="line-height: 1.8;">
-Workshop Organizer: the HANDS workshop series (<a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
+Workshop Organizer: the HANDS workshop series (<a href="http://hands-workshop.org">@ICCV25</a>, <a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
 Area Chair: NeurIPS24, ICML25, NeurIPS25 <br>
 Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24), AAAI(22,24), WACV(22,24), ACCV(22)<br>
 </div>
@@ -89,10 +89,19 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 - Language-guided Open-world Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2503.13160) 
+[[arXiv]](https://arxiv.org/abs/2503.13160)
+
+- Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
+Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2505.19022)
 
 
 <h3 id="pub2025">2025</h3>
+- ExtPose: Robust and Coherent Pose Estimation by Extending ViTs<br>
+Rongyu Chen, Li'an Zhuo, **Linlin Yang**, Qi WANG, Liefeng Bo, Bang Zhang, Angela Yao<br>
+*International Conference on Machine Learning (ICML)*, 2025.<br>
+
 - Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation<br>
 Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
