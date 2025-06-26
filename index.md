@@ -48,6 +48,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jun 2025: Two papers are accepted to ICCV2025.</li>
 <li> May 2025: One paper is accepted to ICML2025.</li>
 <li> Apr 2025: We will host 9th HANDS workshop in conjunction with ICCV25! See you in Honolulu.</li>
 <li> Feb 2025: Two papers are accepted to CVPR2025.</li>
@@ -96,8 +97,21 @@ Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/pdf/2505.19022)
 
+- MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding<br>
+Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/abs/2506.08512)
 
 <h3 id="pub2025">2025</h3>
+
+- Uncertainty-Aware Gradient Stabilization for Small Object Detection<br>
+Huixin Sun, Yanjing Li, **Linlin Yang**, Xianbin Cao, Baochang Zhang<br>
+*International Conference on Computer Vision (ICCV)*, 2025.<br>
+
+- WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection<br>
+Haodong Zhu, Wenhao Dong, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo, Baochang Zhang<br>
+*International Conference on Computer Vision (ICCV)*, 2025.<br>
+
 - ExtPose: Robust and Coherent Pose Estimation by Extending ViTs<br>
 Rongyu Chen, Li'an Zhuo, **Linlin Yang**, Qi WANG, Liefeng Bo, Bang Zhang, Angela Yao<br>
 *International Conference on Machine Learning (ICML)*, 2025.<br>
