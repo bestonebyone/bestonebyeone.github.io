@@ -109,7 +109,7 @@ Huixin Sun, Yanjing Li, **Linlin Yang**, Xianbin Cao, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
 
 - WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection<br>
-Haodong Zhu\#, Wenhao Dong\#, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo, Baochang Zhang<br>
+Haodong Zhu\#, Wenhao Dong\#, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
 
 - ExtPose: Robust and Coherent Pose Estimation by Extending ViTs<br>
