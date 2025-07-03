@@ -104,6 +104,10 @@ Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
 
 <h3 id="pub2025">2025</h3>
 
+- M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
+Ziming Wang, Yanjing Li, **Linlin Yang**, Xinkai Liang, Xianbin Cao, Qi Wang, Baochang Zhang<br>
+*Neurocomputing* 2025.<br>
+
 - Uncertainty-Aware Gradient Stabilization for Small Object Detection<br>
 Huixin Sun, Yanjing Li, **Linlin Yang**, Xianbin Cao, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
