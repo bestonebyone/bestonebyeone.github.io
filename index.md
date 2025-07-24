@@ -136,6 +136,7 @@ Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
 - SET: Spectral Enhancement for Tiny Object Detection<br>
 Huixin Sun, Runqi Wang, Yanjing Li, **Linlin Yang**, Shaohui Lin, Xianbin Cao, Baochang Zhang<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.<br>
+[[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_SET_Spectral_Enhancement_for_Tiny_Object_Detection_CVPR_2025_paper.pdf)
 
 - Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training<br>
 Boyu Liu\#, Haoyu Huang\#, **Linlin Yang**\*, Yanjing Li\*, Guodong Guo, Xianbin Cao, Baochang Zhang<br>
