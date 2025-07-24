@@ -102,15 +102,22 @@ Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/abs/2506.08512)
 
+- Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
+Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2503.11194)
+
 <h3 id="pub2025">2025</h3>
 
 - M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
 Ziming Wang, Yanjing Li, **Linlin Yang**, Xinkai Liang, Xianbin Cao, Qi Wang, Baochang Zhang<br>
 *Neurocomputing* 2025.<br>
+[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015772)
 
 - Uncertainty-Aware Gradient Stabilization for Small Object Detection<br>
 Huixin Sun, Yanjing Li, **Linlin Yang**, Xianbin Cao, Baochang Zhang<br>
 *International Conference on Computer Vision (ICCV)*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2303.01803v2)
 
 - WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection<br>
 Haodong Zhu\#, Wenhao Dong\#, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang Ren, Qingcheng Zhu, Zichao Feng, Changbai Li, Shaohui Lin, Runqi Wang, Xiaoyan Luo\*, Baochang Zhang<br>
@@ -119,6 +126,7 @@ Haodong Zhu\#, Wenhao Dong\#, **Linlin Yang**\*, Hong Li, Yuguang Yang, Yangyang
 - ExtPose: Robust and Coherent Pose Estimation by Extending ViTs<br>
 Rongyu Chen, Li'an Zhuo, **Linlin Yang**, Qi WANG, Liefeng Bo, Bang Zhang, Angela Yao<br>
 *International Conference on Machine Learning (ICML)*, 2025.<br>
+[[openreview]](https://openreview.net/pdf?id=hm9FNEZZ6z)
 
 - Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation<br>
 Zhuoran Zhao, **Linlin Yang**\*, Pengzhan Sun, Pan Hui, Angela Yao<br>
