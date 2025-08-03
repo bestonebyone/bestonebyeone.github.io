@@ -107,6 +107,11 @@ Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/pdf/2503.11194)
 
+- Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method<br>
+Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu, Zichao Feng, Haodong Zhu, Yuguang Yang, Juan Zhang, Runqi Wang, Baochang Zhang<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://www.arxiv.org/pdf/2507.18073)
+
 <h3 id="pub2025">2025</h3>
 
 - M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
