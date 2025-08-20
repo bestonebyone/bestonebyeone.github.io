@@ -112,6 +112,12 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 *arXiv*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/pdf/2507.18073)
 
+- EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond<br>
+Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Baochang Zhang<br>
+*arXiv*, 2025.<br>
+[[arXiv]](https://arxiv.org/pdf/2508.00522)
+
+
 <h3 id="pub2025">2025</h3>
 
 - M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
