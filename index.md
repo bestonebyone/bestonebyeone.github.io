@@ -48,6 +48,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2025: One papers is accepted to TMM2025.</li>
 <li> Jun 2025: Two papers are accepted to ICCV2025.</li>
 <li> May 2025: One paper is accepted to ICML2025.</li>
 <li> Apr 2025: We will host 9th HANDS workshop in conjunction with ICCV25! See you in Honolulu.</li>
@@ -82,11 +83,6 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 
 <h3 id="Preprint">Preprint</h3>
-- InstructHumans: Editing Animated 3D Human Textures with Instructions<br>
-Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
-*arXiv*, 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2404.04037) 
-
 - Language-guided Open-world Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
@@ -119,6 +115,11 @@ Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Bao
 
 
 <h3 id="pub2025">2025</h3>
+
+- InstructHumans: Editing Animated 3D Human Textures with Instructions<br>
+Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
+*IEEE Transactions on Multimedia (TMM)*, 2025.<br>
+[[arXiv]](https://arxiv.org/abs/2404.04037) 
 
 - M3DP: Optimizing 2D Vision Tasks with Minimal 3D Object Information<br>
 Ziming Wang, Yanjing Li, **Linlin Yang**, Xinkai Liang, Xianbin Cao, Qi Wang, Baochang Zhang<br>
