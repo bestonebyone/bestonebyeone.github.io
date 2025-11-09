@@ -48,6 +48,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Nov 2025: Two papers are accepted to AAAI2026.</li>
 <li> Sep 2025: One papers is accepted to TMM2025.</li>
 <li> Jun 2025: Two papers are accepted to ICCV2025.</li>
 <li> May 2025: One paper is accepted to ICML2025.</li>
@@ -78,7 +79,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 </div>
 
 <span id="pub"></span>
-## Publications [[Preprint](#Preprint) - [2025](#pub2025) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
+## Publications [[Preprint](#Preprint) - [2026](#pub2026) - [2025](#pub2025) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
 
 
 
@@ -108,11 +109,16 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 *arXiv*, 2025.<br>
 [[arXiv]](https://www.arxiv.org/pdf/2507.18073)
 
+
+<h3 id="pub2026">2026</h3>
 - EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond<br>
 Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Baochang Zhang<br>
-*arXiv*, 2025.<br>
+*AAAI*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2508.00522)
 
+- AnchorDS: Anchoring Dynamic Sources for Semantically Consistent Text-to-3D Generation<br>
+Jiayin Zhu, **Linlin Yang**, Yicong Li, Angela Yao<br>
+*AAAI*, 2026.<br>
 
 <h3 id="pub2025">2025</h3>
 
