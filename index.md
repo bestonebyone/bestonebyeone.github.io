@@ -52,6 +52,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 <li> Jan 2026: One paper is accepted to ICASSP2026.</li>
 <li> Jan 2026: One paper is accepted to Neurocomputing2026.</li>
 <li> Jan 2026: One paper is accepted to PR2026.</li>
+<li> Dec 2025: One paper is accepted to TCSVT2025.</li>
 <li> Nov 2025: I will serve as an area chair of ICML2026.</li>
 <li> Nov 2025: Two papers are accepted to AAAI2026.</li>
 <li> Sep 2025: One paper is accepted to TMM2025.</li>
