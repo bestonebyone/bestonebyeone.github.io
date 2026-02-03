@@ -90,11 +90,6 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 
 <h3 id="Preprint">Preprint</h3>
-- Language-guided Open-world Video Anomaly Detection<br>
-Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang, **Linlin Yang**<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2503.13160)
-
 - Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
@@ -117,6 +112,23 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
+Changbai Li\#, Haodong Zhu\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, **Linlin Yang**\*, Huobin Tan\*, Baochang Zhang<br>
+*ICLR*, 2026.<br>
+
+- Language-guided Open-world Video Anomaly Detection under Weak Supervision<br>
+Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang,  **Linlin Yang**<br>
+*ICLR*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2503.13160)
+
+- SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment<br>
+Zhuoran Zhao, Xianghao Kong,  **Linlin Yang**, Zheng Wei, Pan Hui, Anyi Rao<br>
+*ICLR*, 2026.<br>
+
+- AMLRIS: Alignment-aware Masked Learning for Referring Image Segmentation<br>
+Tongfei Chen\#, Shuo Yang\#, Yuguang Yang\#,  **Linlin Yang**\*, Runtang Guo, Changbai Li, He Long, Chunyu Xie\*, Dawei Leng, Baochang Zhang<br>
+*ICLR*, 2026.<br>
+
 - EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond<br>
 Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Baochang Zhang<br>
 *AAAI*, 2026.<br>
