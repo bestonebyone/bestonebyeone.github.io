@@ -115,6 +115,7 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, Haodong Zhu\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, **Linlin Yang**\*, Huobin Tan\*, Baochang Zhang<br>
 *ICLR*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2602.02089)
 
 - Language-guided Open-world Video Anomaly Detection under Weak Supervision<br>
 Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang,  **Linlin Yang**<br>
