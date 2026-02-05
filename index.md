@@ -48,6 +48,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jan 2026: We will host Efficient Methods for Multimodal Models (EMM) workshop in conjunction with ICPR26!.</li>
 <li> Jan 2026: Four papers are accepted to ICLR2026.</li>
 <li> Jan 2026: One paper is accepted to ICASSP2026.</li>
 <li> Jan 2026: One paper is accepted to Neurocomputing2026.</li>
