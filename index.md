@@ -91,6 +91,11 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 
 <h3 id="Preprint">Preprint</h3>
+- Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
+Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2603.04135)
+
 - Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
