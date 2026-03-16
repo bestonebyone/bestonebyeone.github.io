@@ -119,12 +119,12 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 <h3 id="pub2026">2026</h3>
 - Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models<br>
-Canyu Chen, Yuguang Yang, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, Linlin Yang, Bingchuan Sun, Yan Wang, Baochang Zhang<br>
+Canyu Chen\#, Yuguang Yang\#, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, **Linlin Yang**, Bingchuan Sun, Yan Wang, Baochang Zhang<br>
 *CVPR findings*, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2603.06049)
 
 - PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion<br>
-Yichen Yang\#, Hong Li\#, Haodong Zhu, Linlin Yang, Guojun Lei, Sheng Xu, Baochang Zhang<br>
+Yichen Yang\#, Hong Li\#, Haodong Zhu, **Linlin Yang**, Guojun Lei, Sheng Xu, Baochang Zhang<br>
 *CVPR*, 2026.<br>
 
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
