@@ -118,6 +118,15 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models<br>
+Canyu Chen, Yuguang Yang, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, Linlin Yang, Bingchuan Sun, Yan Wang, Baochang Zhang<br>
+*CVPR findings*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2603.06049)
+
+- PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion<br>
+Yichen Yang\#, Hong Li\#, Haodong Zhu, Linlin Yang, Guojun Lei, Sheng Xu, Baochang Zhang<br>
+*CVPR*, 2026.<br>
+
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, Haodong Zhu\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, **Linlin Yang**\*, Huobin Tan\*, Baochang Zhang<br>
 *ICLR*, 2026.<br>
@@ -131,10 +140,12 @@ Zihao Liu, Xiaoyu Wu, Jianqin Wu, Xuxu Wang,  **Linlin Yang**<br>
 - SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment<br>
 Zhuoran Zhao, Xianghao Kong,  **Linlin Yang**, Zheng Wei, Pan Hui, Anyi Rao<br>
 *ICLR*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2603.00443)
 
 - AMLRIS: Alignment-aware Masked Learning for Referring Image Segmentation<br>
 Tongfei Chen\#, Shuo Yang\#, Yuguang Yang\#,  **Linlin Yang**\*, Runtang Guo, Changbai Li, He Long, Chunyu Xie\*, Dawei Leng, Baochang Zhang<br>
 *ICLR*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2602.22740)
 
 - EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond<br>
 Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Baochang Zhang<br>
