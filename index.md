@@ -49,6 +49,8 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 <div style="height: 200px; overflow: auto;">
 <ul>
 <li> Mar 2026: I have declined to serve as an area chair of NeurIPS2026 due to the submission restrictions.</li>
+<li> Mar 2026: One paper is accepted to IJCNN26.</li>
+<li> Mar 2026: One paper is accepted to CVPR26 and one paper is accepted to CVPR26 Findings.</li>
 <li> Jan 2026: We will host Efficient Methods for Multimodal Models (EMM) workshop in conjunction with ICPR26!.</li>
 <li> Jan 2026: Four papers are accepted to ICLR2026.</li>
 <li> Jan 2026: One paper is accepted to ICASSP2026.</li>
@@ -102,10 +104,6 @@ Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/pdf/2505.19022)
 
-- MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding<br>
-Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/abs/2506.08512)
 
 - Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
 Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
@@ -119,6 +117,11 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding<br>
+Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
+*IJCNN*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2506.08512)
+
 - Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models<br>
 Canyu Chen\#, Yuguang Yang\#, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, **Linlin Yang**, Bingchuan Sun, Yan Wang, Baochang Zhang<br>
 *CVPR findings*, 2026.<br>
