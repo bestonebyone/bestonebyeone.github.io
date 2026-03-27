@@ -123,7 +123,7 @@ Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
 [[arXiv]](https://arxiv.org/abs/2506.08512)
 
 - Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models<br>
-Canyu Chen\#, Yuguang Yang\#, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, **Linlin Yang**, Bingchuan Sun, Yan Wang, Baochang Zhang<br>
+Canyu Chen\#, Yuguang Yang\#, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xuanyao Mao, Jason Bao, Xinyue Tang, **Linlin Yang**\*, Bingchuan Sun\*, Yan Wang\*, Baochang Zhang<br>
 *CVPR findings*, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2603.06049)
 
