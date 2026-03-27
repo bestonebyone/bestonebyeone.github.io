@@ -48,6 +48,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Mar 2026: I have declined to serve as an area chair of NeurIPS2026 due to the submission restrictions.</li>
 <li> Jan 2026: We will host Efficient Methods for Multimodal Models (EMM) workshop in conjunction with ICPR26!.</li>
 <li> Jan 2026: Four papers are accepted to ICLR2026.</li>
 <li> Jan 2026: One paper is accepted to ICASSP2026.</li>
@@ -124,8 +125,9 @@ Canyu Chen\#, Yuguang Yang\#, Zhewen Tan, Yizhi Wang, Ruiyi Zhan, Haiyan Liu, Xu
 [[arXiv]](https://arxiv.org/abs/2603.06049)
 
 - PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion<br>
-Yichen Yang\#, Hong Li\#, Haodong Zhu, **Linlin Yang**, Guojun Lei, Sheng Xu, Baochang Zhang<br>
+Yichen Yang\#, Hong Li\#, Haodong Zhu, **Linlin Yang**\*, Guojun Lei, Sheng Xu, Baochang Zhang<br>
 *CVPR*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2511.18801)
 
 - UrbanGS: Efficient and Scalable Architecture for Geometrically Accurate Large-Scene Reconstruction<br>
 Changbai Li\#, Haodong Zhu\#, Hanlin Chen, Xiuping Liang, Tongfei Chen, Shuwei Shao, **Linlin Yang**\*, Huobin Tan\*, Baochang Zhang<br>
