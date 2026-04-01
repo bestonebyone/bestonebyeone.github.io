@@ -48,7 +48,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
-<li> Mar 2026: I have declined to serve as an area chair of NeurIPS2026 due to the submission restrictions.</li>
+<li> Mar 2026: One paper is accepted to ICME26.</li>
 <li> Mar 2026: One paper is accepted to IJCNN26.</li>
 <li> Mar 2026: One paper is accepted to CVPR26 and one paper is accepted to CVPR26 Findings.</li>
 <li> Jan 2026: We will host Efficient Methods for Multimodal Models (EMM) workshop in conjunction with ICPR26!.</li>
@@ -117,6 +117,10 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- UniGuard: A Unified In-Process Watermarking Framework for Text-to-3D Generation<br>
+Shali Wang\#, Boshu Jia\#, Yong Hu\*, **Linlin Yang**\*, Jin Yang, and Shunyang Zeng<br>
+*ICME*, 2026.<br>
+
 - MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding<br>
 Zhiyi Zhu, Xiaoyu Wu, Zihao Liu, **Linlin Yang**<br>
 *IJCNN*, 2026.<br>
