@@ -48,6 +48,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Apr 2026: We will host DexHAND workshop in conjunction with ECCV26! See you in Malmö, Sweden.</li>
 <li> Mar 2026: One paper is accepted to ICME26.</li>
 <li> Mar 2026: One paper is accepted to IJCNN26.</li>
 <li> Mar 2026: One paper is accepted to CVPR26 and one paper is accepted to CVPR26 Findings.</li>
