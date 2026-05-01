@@ -48,6 +48,8 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> May 2026: One paper is accepted to TCSVT2026.</li>
+<li> May 2026: Three papers are accepted to ICML2026.</li>
 <li> Apr 2026: We will host DexHAND workshop in conjunction with ECCV26! See you in Malmö, Sweden.</li>
 <li> Mar 2026: One paper is accepted to ICME26.</li>
 <li> Mar 2026: One paper is accepted to IJCNN26.</li>
@@ -95,21 +97,10 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 
 <h3 id="Preprint">Preprint</h3>
-- Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
-Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
-*arXiv*, 2026.<br>
-[[arXiv]](https://arxiv.org/pdf/2603.04135)
-
 - Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
 [[arXiv]](https://arxiv.org/pdf/2505.19022)
-
-
-- Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
-Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
-*arXiv*, 2025.<br>
-[[arXiv]](https://arxiv.org/pdf/2503.11194)
 
 - Squeeze10-LLM: Squeezing LLMs' Weights by 10 Times via a Staged Mixed-Precision Quantization Method<br>
 Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu, Zichao Feng, Haodong Zhu, Yuguang Yang, Juan Zhang, Runqi Wang, Baochang Zhang<br>
@@ -118,6 +109,22 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
+Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
+*ICML*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2603.04135)
+
+
+- Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
+Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
+*TCSVT*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2503.11194)
+
+- MedFact-R1: Towards Factual Medical Reasoning via Pseudo-Label Augmentation<br>
+Gengliang Li\#, Rongyu Chen\#, Bin Li,**Linlin Yang**, Guodong Ding, Angela Yao<br>
+*ICASSP*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2509.15154)
+
 - UniGuard: A Unified In-Process Watermarking Framework for Text-to-3D Generation<br>
 Shali Wang\#, Boshu Jia\#, Yong Hu\*, **Linlin Yang**\*, Jin Yang, and Shunyang Zeng<br>
 *ICME*, 2026.<br>
