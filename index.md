@@ -48,6 +48,7 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> May 2026: One paper is accepted to PR2026.</li>
 <li> May 2026: One paper is accepted to TCSVT2026.</li>
 <li> May 2026: Three papers are accepted to ICML2026.</li>
 <li> Apr 2026: We will host DexHAND workshop in conjunction with ECCV26! See you in Malmö, Sweden.</li>
@@ -114,6 +115,9 @@ Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuh
 *ICML*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.04135)
 
+- LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection<br>
+Wenhao Donga, Xiaoyan Luo, **Linlin Yang**\*, Haodong Zhu, Xiaorong Shi, Guodong Guo, Baochang Zhang<br>
+*PR*, 2026.<br>
 
 - Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
 Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
