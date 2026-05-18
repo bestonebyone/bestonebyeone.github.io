@@ -110,6 +110,15 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+
+- SURGE: Surrogate Gradient Adaptation in Binary Neural Networks<br>
+Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang\*<br>
+*ICML*, 2026.<br>
+
+- FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models<br>
+Haoyu Huang, **Linlin Yang**\*, Sheng Xu\*, Boyu Liu, Guodong Guo, Zhongqian Fu, Hang Zhou, Baochang Zhang<br>
+*ICML*, 2026.<br>
+
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
 Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
 *ICML*, 2026.<br>
