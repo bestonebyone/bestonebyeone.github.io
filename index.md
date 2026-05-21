@@ -98,6 +98,11 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 
 <h3 id="Preprint">Preprint</h3>
+- ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions<br>
+Zihao Liu, Xiaoyu Wu, Wenna Li, Jianqin Wu, **Linlin Yang**<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2604.07772)
+
 - Rethinking Metrics and Benchmarks of Video Anomaly Detection<br>
 Zihao Liu, Xiaoyu Wu, Wenna Li, **Linlin Yang**<br>
 *arXiv*, 2025.<br>
@@ -112,11 +117,11 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 <h3 id="pub2026">2026</h3>
 
 - SURGE: Surrogate Gradient Adaptation in Binary Neural Networks<br>
-Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang\*<br>
+Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang<br>
 *ICML*, 2026.<br>
 
 - FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models<br>
-Haoyu Huang, **Linlin Yang**\*, Sheng Xu\*, Boyu Liu, Guodong Guo, Zhongqian Fu, Hang Zhou, Baochang Zhang<br>
+Haoyu Huang, **Linlin Yang**\*, Sheng Xu, Boyu Liu, Guodong Guo, Zhongqian Fu, Hang Zhou, Baochang Zhang<br>
 *ICML*, 2026.<br>
 
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
@@ -127,6 +132,10 @@ Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuh
 - LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection<br>
 Wenhao Donga, Xiaoyan Luo, **Linlin Yang**\*, Haodong Zhu, Xiaorong Shi, Guodong Guo, Baochang Zhang<br>
 *PR*, 2026.<br>
+
+- BinParam: Binarized human parametric modeling via distribution alignment and orthogonal residuals<br>
+Yingjie Chen, **Linlin Yang**\*, Ziqi Xie, Boshu Jia, Boyu Liu, Baochang Zhang, Xiaoyu Wu, Libiao Jin<br>
+*Neurocomputing*, 2026.<br>
 
 - Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
 Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
@@ -176,6 +185,11 @@ Zhuoran Zhao, Xianghao Kong,  **Linlin Yang**, Zheng Wei, Pan Hui, Anyi Rao<br>
 Tongfei Chen\#, Shuo Yang\#, Yuguang Yang\#,  **Linlin Yang**\*, Runtang Guo, Changbai Li, He Long, Chunyu Xie\*, Dawei Leng, Baochang Zhang<br>
 *ICLR*, 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2602.22740)
+
+- Noise-Robust Tiny Object Localization with Flows<br>
+Huixin Sun, **Linlin Yang**, Ronyu Chen, Kerui Gu, Baochang Zhang, Angela Yao, Xianbin Cao<br>
+*PR*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2601.00617)
 
 - EFlat-LoRA: Efficiently Seeking Flat Minima for Better Generalization in Fine-Tuning Large Language Models and Beyond<br>
 Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Baochang Zhang<br>
