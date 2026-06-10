@@ -98,6 +98,17 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 
 <h3 id="Preprint">Preprint</h3>
+
+- CL-CLIP: CLIP-Based Continual Learning Framework with Cost-Volume Category Decoupling for Object Detection<br>
+Zihan Liu, Yuguang Yang, Shengjie Su, Jianing Pang, **Linlin Yang**, Chunyu Xie, Nikolai Yu. Zolotykh, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2606.06978)
+
+- Circuit-Inspired High-Order Neural Networks with Unified Neural Dynamics Modeling for PDE Solving and Visual Perception<br>
+Tongfei Chen, Jingying Yang, **Linlin Yang**, Juan Zhang, Jinhu Lü, David Doermann, Chunyu Xie, Long He, Tian Wang, Guodong Guo, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2603.23977)
+
 - ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions<br>
 Zihao Liu, Xiaoyu Wu, Wenna Li, Jianqin Wu, **Linlin Yang**<br>
 *arXiv*, 2026.<br>
@@ -119,10 +130,12 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 - SURGE: Surrogate Gradient Adaptation in Binary Neural Networks<br>
 Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang<br>
 *ICML*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2605.10989)
 
 - FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models<br>
 Haoyu Huang, **Linlin Yang**\*, Sheng Xu, Boyu Liu, Guodong Guo, Zhongqian Fu, Hang Zhou, Baochang Zhang<br>
 *ICML*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2606.06547)
 
 - Unbiased Dynamic Pruning for Efficient Group-Based Policy Optimization<br>
 Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuhui Liu, Xiantong Zhen, Haiguang Liu, Baochang Zhang<br>
