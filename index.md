@@ -48,6 +48,8 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jun 2026: One paper is accepted to PR2026.</li>
+<li> Jun 2026: Two papers are accepted to ECCV2026.</li>
 <li> May 2026: One paper is accepted to PR2026.</li>
 <li> May 2026: One paper is accepted to TCSVT2026.</li>
 <li> May 2026: Three papers are accepted to ICML2026.</li>
@@ -126,6 +128,18 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+
+- Security-Aware Post-Training Quantization for Mixture-of-Experts Large Language Models<br>
+Boyu Liu, Shiran Ge, Zhiyi Zhu, Canjia Li, **Linlin Yang**, Baochang Zhang<br>
+*PR*, 2026.<br>
+
+- InfraNet: Quality-Aware RGB Guidance for Infrared Object Detection<br>
+Zichao Feng, Haodong Zhu, Jingying Yang, **Linlin Yang**, Yangyang Ren, Sheng Xu, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Baochang Zhang<br>
+*ECCV*, 2026.<br>
+
+- Teaching Vision-Language-Action Models What to See and Where to Look<br>
+Yuguang Yang, Canyu Chen, Zhewen Tan, Yizhi Wang, Zichao Feng, Chunyang Liu, Kehua Sheng, Bo Zhang, Yan Wang, Juan Zhang, **Linlin Yang**, Baochang Zhang, Xianbin Cao<br>
+*ECCV*, 2026.<br>
 
 - SURGE: Surrogate Gradient Adaptation in Binary Neural Networks<br>
 Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang<br>
