@@ -134,14 +134,17 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 - Security-Aware Post-Training Quantization for Mixture-of-Experts Large Language Models<br>
 Boyu Liu, Shiran Ge, Zhiyi Zhu, Canjia Li, **Linlin Yang**, Baochang Zhang<br>
 *PR*, 2026.<br>
+[[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012513)
 
 - InfraNet: Quality-Aware RGB Guidance for Infrared Object Detection<br>
-Zichao Feng, Haodong Zhu, Jingying Yang, **Linlin Yang**, Yangyang Ren, Sheng Xu, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, Baochang Zhang<br>
+Zichao Feng, Haodong Zhu, Jingying Yang, Sheng Xu, Yangyang Ren, Yuguang Yang, Xuhui Liu, Juan Zhang, Tian Wang, **Linlin Yang**, Baochang Zhang<br>
 *ECCV*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.03795)
 
 - Teaching Vision-Language-Action Models What to See and Where to Look<br>
-Yuguang Yang, Canyu Chen, Zhewen Tan, Yizhi Wang, Zichao Feng, Chunyang Liu, Kehua Sheng, Bo Zhang, Yan Wang, Juan Zhang, **Linlin Yang**, Baochang Zhang, Xianbin Cao<br>
+Yuguang Yang, Canyu Chen, Zhewen Tan, Yizhi Wang, Zichao Feng, Chunyang Liu, Kehua Sheng, Juan Zhang, **Linlin Yang**, Baochang Zhang, Yan Wang, Bo Zhang, Xianbin Cao<br>
 *ECCV*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.01658)
 
 - SURGE: Surrogate Gradient Adaptation in Binary Neural Networks<br>
 Haoyu Huang\#, Boyu Liu\#, **Linlin Yang**\*, Yanjing Li, Yuguang Yang, Xuhui Liu, Canyu Chen, Zhongqian Fu, Baochang Zhang<br>
@@ -161,10 +164,12 @@ Haodong Zhu\#, Yangyang Ren\#, Yanjing Li\*, Mingbao Lin, **Linlin Yang**\*, Xuh
 - LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection<br>
 Wenhao Donga, Xiaoyan Luo, **Linlin Yang**\*, Haodong Zhu, Xiaorong Shi, Guodong Guo, Baochang Zhang<br>
 *PR*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.08076)
 
 - BinParam: Binarized human parametric modeling via distribution alignment and orthogonal residuals<br>
 Yingjie Chen, **Linlin Yang**\*, Ziqi Xie, Boshu Jia, Boyu Liu, Baochang Zhang, Xiaoyu Wu, Libiao Jin<br>
 *Neurocomputing*, 2026.<br>
+[[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226009574)
 
 - Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses<br>
 Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
@@ -228,6 +233,7 @@ Jiaxin Deng\#, Qingcheng Zhu\#, Junbiao Pang, **Linlin Yang**, Zhongqian Fu, Bao
 - AnchorDS: Anchoring Dynamic Sources for Semantically Consistent Text-to-3D Generation<br>
 Jiayin Zhu, **Linlin Yang**, Yicong Li, Angela Yao<br>
 *AAAI*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2511.11692)
 
 <h3 id="pub2025">2025</h3>
 
