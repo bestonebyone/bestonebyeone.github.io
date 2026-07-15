@@ -48,6 +48,8 @@ Reviewer: Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR<br>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Jul 2026: One paper is accepted to ACMMM2026.</li>
+<li> Jun 2026: One paper is accepted to Neurocomputing2026.</li>
 <li> Jun 2026: One paper is accepted to PR2026.</li>
 <li> Jun 2026: Two papers are accepted to ECCV2026.</li>
 <li> May 2026: One paper is accepted to PR2026.</li>
