@@ -131,6 +131,10 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 <h3 id="pub2026">2026</h3>
 
+- S<sup>3</sup>-LoRA: Sharpness-Score Sampling for Efficient and Generalizable Low-Rank Adaptation<br>
+Zhangyi Wang, Qixuan Wu, **Linlin Yang**, Yangyang Ren, Haoyu Huang, Sheng Xu, Zhongqian Fu, Haixia Pan, Baochang Zhang<br>
+*ACMMM*, 2026.<br>
+
 - Security-Aware Post-Training Quantization for Mixture-of-Experts Large Language Models<br>
 Boyu Liu, Shiran Ge, Zhiyi Zhu, Canjia Li, **Linlin Yang**, Baochang Zhang<br>
 *PR*, 2026.<br>
