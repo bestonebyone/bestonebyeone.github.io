@@ -103,6 +103,17 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 <h3 id="Preprint">Preprint</h3>
 
+- Kalman Meets Curriculum: Efficient Dynamic Prompt Selection for Adaptive RL Finetuning<br>
+Haodong Zhu, Yangyang Ren, Yanjing Li, Sheng Xu, Haiguang Liu, **Linlin Yang**, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2607.27610)
+
+
+- Contextual Information Policy Optimization for Search Agents<br>
+Xingyu Guo, Wei Chen, **Linlin Yang**, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2608.06128)
+
 - CL-CLIP: CLIP-Based Continual Learning Framework with Cost-Volume Category Decoupling for Object Detection<br>
 Zihan Liu, Yuguang Yang, Shengjie Su, Jianing Pang, **Linlin Yang**, Chunyu Xie, Nikolai Yu. Zolotykh, Baochang Zhang<br>
 *arXiv*, 2026.<br>
