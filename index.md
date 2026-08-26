@@ -48,6 +48,8 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2026: One paper is accepted to BMVC2026.</li>
+<li> Sep 2026: One paper is accepted to EMNLP Findings2026.</li>
 <li> Aug 2026: I will serve as an area chair of ICLR2026.</li>
 <li> Jul 2026: One paper is accepted to ACMMM2026.</li>
 <li> Jun 2026: One paper is accepted to Neurocomputing2026.</li>
@@ -142,13 +144,20 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- UniFaceTalk: Universal One-Shot 3D Talking-Head Synthesis via Motion-Disentangled Gaussian Splatting<br>
+Fang Liu, Zhaoxu Sun, Hanlin Yan, Ran Zuo, **Linlin Yang**<br>
+*BMVC*, 2026.<br>
+
+- Token-to-Pixel Semantic Guidance for Document Image Tampering Localization<br>
+Tiancheng Wang, Haoyu Huang, Zichao Feng, **Linlin Yang**, Sheng Xu, Baochang Zhang<br>
+*EMNLP Findings*, 2026.<br>
 
 - S<sup>3</sup>-LoRA: Sharpness-Score Sampling for Efficient and Generalizable Low-Rank Adaptation<br>
-Zhangyi Wang, Qixuan Wu, **Linlin Yang**, Yangyang Ren, Haoyu Huang, Sheng Xu, Zhongqian Fu, Haixia Pan, Baochang Zhang<br>
+Zhangyi Wang, Qixuan Wu, **Linlin Yang**\*, Yangyang Ren, Haoyu Huang, Sheng Xu, Zhongqian Fu, Haixia Pan, Baochang Zhang<br>
 *ACMMM*, 2026.<br>
 
 - Security-Aware Post-Training Quantization for Mixture-of-Experts Large Language Models<br>
-Boyu Liu, Shiran Ge, Zhiyi Zhu, Canjia Li, **Linlin Yang**, Baochang Zhang<br>
+Boyu Liu, Shiran Ge, Zhiyi Zhu, Canjia Li, **Linlin Yang**\*, Baochang Zhang<br>
 *PR*, 2026.<br>
 [[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012513)
 
