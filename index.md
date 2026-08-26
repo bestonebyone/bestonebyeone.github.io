@@ -202,7 +202,7 @@ Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
 [[arXiv]](https://arxiv.org/pdf/2503.11194)
 
 - MedFact-R1: Towards Factual Medical Reasoning via Pseudo-Label Augmentation<br>
-Gengliang Li\#, Rongyu Chen\#, Bin Li, **Linlin Yang**\*, Guodong Ding, Angela Yao<br>
+Gengliang Li\#, Rongyu Chen\#, Bin Li, **Linlin Yang**\*, Guodong Ding<br>
 *ICASSP*, 2026.<br>
 [[arXiv]](https://arxiv.org/pdf/2509.15154)
 
