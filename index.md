@@ -145,11 +145,11 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 <h3 id="pub2026">2026</h3>
 - UniFaceTalk: Universal One-Shot 3D Talking-Head Synthesis via Motion-Disentangled Gaussian Splatting<br>
-Fang Liu, Zhaoxu Sun, Hanlin Yan, Ran Zuo, **Linlin Yang**<br>
+Fang Liu, Zhaoxu Sun, Hanlin Yan, Ran Zuo\*, **Linlin Yang**\*<br>
 *BMVC*, 2026.<br>
 
 - Token-to-Pixel Semantic Guidance for Document Image Tampering Localization<br>
-Tiancheng Wang, Haoyu Huang, Zichao Feng, **Linlin Yang**, Sheng Xu, Baochang Zhang<br>
+Tiancheng Wang, Haoyu Huang, Zichao Feng, **Linlin Yang**\*, Sheng Xu, Baochang Zhang<br>
 *EMNLP Findings*, 2026.<br>
 
 - S<sup>3</sup>-LoRA: Sharpness-Score Sampling for Efficient and Generalizable Low-Rank Adaptation<br>
