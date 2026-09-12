@@ -106,6 +106,11 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 <h3 id="Preprint">Preprint</h3>
 
+- MHE-Former: Multi-Hypothesis Transformers via Entropy Maximization for 3D Mesh Recovery<br>
+Boshu Jia, Rongyu Chen, Linlin Yang, Zihao Liu, Yingjie Chen, Zhongqun Zhang, Zhulin Tao, Shaohui Lin, Xiaoyu Wu, Libiao Jin, Baochang Zhang, Angela Yao<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2609.10743)
+
 - Kalman Meets Curriculum: Efficient Dynamic Prompt Selection for Adaptive RL Finetuning<br>
 Haodong Zhu, Yangyang Ren, Yanjing Li, Sheng Xu, Haiguang Liu, **Linlin Yang**, Baochang Zhang<br>
 *arXiv*, 2026.<br>
