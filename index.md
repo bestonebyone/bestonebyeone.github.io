@@ -39,7 +39,7 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 
 <div style="line-height: 1.8;">
 Workshop Organizer: DexHAND(<a href="http://hands-workshop.org">@ECCV26</a>), the HANDS workshop series (<a href="http://hands-workshop.org">@ICCV25</a>, <a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: NeurIPS(24-26), ICML(25-26), ICLR(26) <br>
+Area Chair: NeurIPS(24-26), ICML(25-26), ICLR(26), CVPR(27) <br>
 Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023/ProgramCommittee">NeurIPS</a>, <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee">ECCV</a>; Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR, TPAMI, IJCV, PR<br>
 </div>
 
@@ -48,6 +48,7 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2026: I will serve as an area chair of CVPR2027.</li>
 <li> Sep 2026: One paper is accepted to BMVC2026.</li>
 <li> Sep 2026: One paper is accepted to EMNLP Findings2026.</li>
 <li> Aug 2026: I will serve as an area chair of ICLR2026.</li>
