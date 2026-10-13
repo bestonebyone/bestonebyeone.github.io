@@ -39,8 +39,8 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 
 <div style="line-height: 1.8;">
 Workshop Organizer: DexHAND(<a href="http://hands-workshop.org">@ECCV26</a>), the HANDS workshop series (<a href="http://hands-workshop.org">@ICCV25</a>, <a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: Top AC <a href="#">NeurIPS</a>; Top-tier conferences like NeurIPS, ICML, ICLR, CVPR <br>
-Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023/ProgramCommittee">NeurIPS</a>, <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee">ECCV</a>; Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR, TPAMI, IJCV, PR<br>
+Area Chair: Top AC (<a href="#">NeurIPS</a>); Top-tier conferences like NeurIPS, ICML, ICLR, CVPR <br>
+Reviewer: Top/Outstanding Reviewers (<a href="https://neurips.cc/Conferences/2023/ProgramCommittee">NeurIPS</a>, <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee">ECCV</a>); Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR, TPAMI, IJCV, PR<br>
 </div>
 
 <span id="news"></span>
