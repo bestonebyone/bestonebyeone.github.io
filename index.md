@@ -39,7 +39,7 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 
 <div style="line-height: 1.8;">
 Workshop Organizer: DexHAND(<a href="http://hands-workshop.org">@ECCV26</a>), the HANDS workshop series (<a href="http://hands-workshop.org">@ICCV25</a>, <a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: NeurIPS(24-26), ICML(25-26), ICLR(26), CVPR(27) <br>
+Area Chair: Top AC <a href="#">NeurIPS</a>; Top-tier conferences like NeurIPS, ICML, ICLR, CVPR <br>
 Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023/ProgramCommittee">NeurIPS</a>, <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee">ECCV</a>; Top-tier conferences and journals like CVPR, ICCV, ECCV, ICLR, TPAMI, IJCV, PR<br>
 </div>
 
@@ -48,6 +48,7 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2026: Two papers are accepted to NeurIPS2026.</li>
 <li> Sep 2026: I will serve as an area chair of CVPR2027.</li>
 <li> Sep 2026: One paper is accepted to BMVC2026.</li>
 <li> Sep 2026: One paper is accepted to EMNLP Findings2026.</li>
@@ -106,6 +107,31 @@ Reviewer: Top/Outstanding Reviewers <a href="https://neurips.cc/Conferences/2023
 
 
 <h3 id="Preprint">Preprint</h3>
+
+- GleanVID: Complementary Token Selection for Efficient Video Large Language Models<br>
+Shuo Yang, Changbai Li, Rui Tang, Xinyu Zhao, Linlin Yang, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2609.37042)
+
+- DIPrune: Task-Aware Token Pruning with Dual Importance for Efficient Multimodal Language Models<br>
+Shuo Yang, Changbai Li, Linlin Yang, Huobin Tan, Rongyu Chen, Tongfei Chen, Tian Wang, Sheng Xu, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2610.08341)
+
+- GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container<br>
+Zhongman Du, Huiming Zhang, Linlin Yang, Sheng Xu, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2609.38863)
+
+- GraphHCA: Closed-Form Hindsight Credit Assignment for Long-Horizon LLM Agents<br>
+Haodong Zhu, Yangyang Ren, Changbai Li, Sheng Xu, Linlin Yang, haiguang liu, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2609.35084)
+
+- Cross-Rollout Bellman Closure for Long-Horizon Agentic Reinforcement Learning<br>
+Yangyang Ren, Haodong Zhu, Linlin Yang, Sheng Xu, Peichao Lai, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2609.35082)
 
 - MHE-Former: Multi-Hypothesis Transformers via Entropy Maximization for 3D Mesh Recovery<br>
 Boshu Jia, Rongyu Chen, Linlin Yang, Zihao Liu, Yingjie Chen, Zhongqun Zhang, Zhulin Tao, Shaohui Lin, Xiaoyu Wu, Libiao Jin, Baochang Zhang, Angela Yao<br>
