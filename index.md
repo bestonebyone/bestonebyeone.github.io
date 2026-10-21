@@ -48,6 +48,7 @@ Reviewer: Top/Outstanding Reviewers (<a href="https://neurips.cc/Conferences/202
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Oct 2026: I will serve as an area chair of ICML2027.</li>
 <li> Sep 2026: Two papers are accepted to NeurIPS2026.</li>
 <li> Sep 2026: I will serve as an area chair of CVPR2027.</li>
 <li> Sep 2026: One paper is accepted to BMVC2026.</li>
