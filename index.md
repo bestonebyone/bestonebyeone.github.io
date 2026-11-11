@@ -112,7 +112,7 @@ Reviewer: Top/Outstanding Reviewers (<a href="https://neurips.cc/Conferences/202
 - Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding<br>
 Haoyu Huang, Jialiang Kang, Linlin Yang, Xiao Yang, Baochang Zhang<br>
 *arXiv*, 2026.<br>
-[[arXiv]](https://arxiv.org/pdf/2609.37042)
+[[arXiv]](https://arxiv.org/pdf/2611.13017)
 
 
 - GleanVID: Complementary Token Selection for Efficient Video Large Language Models<br>
