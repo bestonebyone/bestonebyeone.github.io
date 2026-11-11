@@ -109,6 +109,12 @@ Reviewer: Top/Outstanding Reviewers (<a href="https://neurips.cc/Conferences/202
 
 <h3 id="Preprint">Preprint</h3>
 
+- Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding<br>
+Haoyu Huang, Jialiang Kang, Linlin Yang, Xiao Yang, Baochang Zhang<br>
+*arXiv*, 2026.<br>
+[[arXiv]](https://arxiv.org/pdf/2609.37042)
+
+
 - GleanVID: Complementary Token Selection for Efficient Video Large Language Models<br>
 Shuo Yang, Changbai Li, Rui Tang, Xinyu Zhao, Linlin Yang, Baochang Zhang<br>
 *arXiv*, 2026.<br>
@@ -177,6 +183,15 @@ Qingcheng Zhu, Yangyang Ren, **Linlin Yang**, Mingbao Lin, Yanjing Li, Sheng Xu,
 
 
 <h3 id="pub2026">2026</h3>
+- AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA<br>
+Yuguang Yang, Zhewen Tan, Canyu Chen, Linlin Yang, Cheng Chi, Chunyang Liu, Kehua Sheng, Jinyu Yang, Baochang Zhan, Bo Zhang, Yan Wang, Xianbin Cao<br>
+*NeurIPS*, 2026.<br>
+
+- Coarse-to-Refine: Trajectory Self-Refinement in Single Autoregressive Pass for Driving VLA<br>
+Canyu Chen, Yuguang Yang, Jianing Pang, Zhewen Tan, Cheng Chi, Chunyang Liu, Kehua Sheng, Bo Zhang, Linlin Yang, Xiaoyan Luo, Yan Wang, Baochang Zhang<br>
+*NeurIPS*, 2026.<br>
+
+
 - UniFaceTalk: Universal One-Shot 3D Talking-Head Synthesis via Motion-Disentangled Gaussian Splatting<br>
 Fang Liu, Zhaoxu Sun, Hanlin Yan, Ran Zuo\*, **Linlin Yang**\*<br>
 *BMVC*, 2026.<br>
